@@ -1,11 +1,13 @@
-import { useState } from 'react'
 
 import './App.css'
+import Chatbot from './components/Chatbot'
 
 function App() {
 
   return (
     <>
+
+      <Chatbot />
 
     </>
   )
